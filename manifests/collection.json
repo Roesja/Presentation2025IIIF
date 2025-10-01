@@ -1,0 +1,13 @@
+{
+  "id" : "https://Roesja.github.io/Presentation2025IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Roesja/Presentation2025IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Roesja.github.io/Presentation2025IIIF/manifests/WorkingfileFirstmanifestRoesjatestIIIF.json",
+    "label" : "Roesja's first manifest"
+  } ]
+}
